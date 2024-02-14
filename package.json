@@ -1,0 +1,15 @@
+{
+  "name": "email_sender",
+  "version": "1.0.0",
+  "description": "This is the assets repository for TPG such as hosted images via Github, email templates, and etc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.4",
+    "nodemailer": "^6.9.9"
+  }
+}
